@@ -1,0 +1,33 @@
+{
+  "person": [
+    {
+      "id": 1,
+      "name": "wataru",
+      "age": 29
+    },
+    {
+      "id": 2,
+      "name": "takahiro",
+      "age": 28
+    },
+    {
+      "id": 3,
+      "name": "masashi",
+      "age": 28
+    }
+  ],
+  "work": [
+    {
+      "id": 1,
+      "name": "デザイン"
+    },
+    {
+      "id": 2,
+      "name": "エンジニア"
+    },
+    {
+      "id": 3,
+      "name": "人事"
+    }
+  ]
+}
